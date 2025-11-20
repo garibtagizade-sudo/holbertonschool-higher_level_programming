@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def add_tuple(tuple_a=(), tuple_b=()):
     new = f(tuple_a)
     new1 = f(tuple_b)
